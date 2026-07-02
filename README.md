@@ -24,10 +24,10 @@ Breast cancer screening uptake data were extracted from the Intermutualistic Age
 ---
 ## 🛠️ **Tools**
 
-- QGIS
-- GeoDa
-- STATA
-- Excel
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)  
+![GeoDa](https://img.shields.io/badge/GeoDa-1F4E79?style=flat-square)  
+![Stata](https://img.shields.io/badge/Stata-1A4D8F?style=flat-square)  
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)  
 
 ---
 ## ⚙️ **Project Workflow**
