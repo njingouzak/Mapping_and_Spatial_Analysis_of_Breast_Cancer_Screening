@@ -17,7 +17,7 @@ The two main objectives of this work are:
 - To identify clusters of municipalities with a significantly lower prevalence of participation in breast cancer screening and to explore explanatory factors
 
 ---
-## 📊 **Data Source**
+## 🗄️ **Data Source**
 
 Breast cancer screening uptake data were extracted from the Intermutualistic Agency (IMA) atlas for 2014 and 2017. These data were collected through the organized national breast cancer screening program. This program is under the responsibility of the different regions.
 
@@ -32,7 +32,7 @@ Breast cancer screening uptake data were extracted from the Intermutualistic Age
 ---
 ## ⚙️ **Project Workflow**
 
-### **Mapping**
+### 🗺️ **Mapping**
 
 1- a) create an Excel file containing the project variables, b) import the municipal base map and the Excel file into QGIS, and c) join the two files
 
@@ -50,7 +50,7 @@ d. Difference in standardized prevalence between the 2 years (2017 – 2014)
 a. Are there spatial configurations in screening participation?    
 b. Is it conceivable to link the distribution of cancer screening participation and the average number of patients assigned per active general practice?    
 
-### **Spatial Analysis**
+### 🌍 **Spatial Analysis**
 
 6- For the 2 years separately, are there municipalities with an "abnormally" high or low SMR? Which municipalities present these "abnormal" values?
 
