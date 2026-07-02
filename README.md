@@ -36,15 +36,15 @@ Breast cancer screening uptake data were extracted from the Intermutualistic Age
 
 1- a) create an Excel file containing the project variables, b) import the municipal base map and the Excel file into QGIS, and c) join the two files
 
-2- Create a professional map of the municipalities of Belgium allowing for the clear distinction of the different regions. Comment on the steps involved in creating your map.
+2- Create a professional map of the municipalities of Belgium allowing for the clear distinction of the different regions.
 
-3- For the most recent year, create a map of cancer screening participation at the municipal level for the following health indicators:  
+3- For year 2017, create a map of cancer screening participation at the municipal level for the following health indicators:  
 a. Crude prevalence  
 b. Age-standardized prevalence  
 c. SMR (Standardized Morbidity Ratio)  
 d. Difference in standardized prevalence between the 2 years (2017 – 2014)  
 
-4- For the most recent year, create a map, at the municipal level, that represents both cancer screening participation (standardized prevalence) and the average number of patients assigned per active general practice. Comment on the steps involved in creating your map.
+4- For year 2017, create a map, at the municipal level, that represents both cancer screening participation (standardized prevalence) and the average number of patients assigned per active general practice.
 
 5- Use the map created in point 3 to propose answers to the following questions:    
 a. Are there spatial configurations in screening participation?    
@@ -56,7 +56,7 @@ b. Is it conceivable to link the distribution of cancer screening participation 
 
 7- Considering the standardized prevalence (only): for the 2 years separately and for the difference, does a spatial phenomenon exist in the data (global and local spatial autocorrelation to be assessed for each year and for the difference)?
 
-8- For the most recent year, is there a spatial association between screening uptake and the average number of patients assigned per active general practice?
+8- For year 2017, is there a spatial association between screening uptake and the average number of patients assigned per active general practice?
 
 ---
 ## 🏆 **Key Results**
